@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "89557526413",
+    "firebase_url": "https://umn-watch-store-default-rtdb.firebaseio.com",
+    "project_id": "umn-watch-store",
+    "storage_bucket": "umn-watch-store.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:89557526413:android:844bba93bc153f6a103fc4",
+        "android_client_info": {
+          "package_name": "com.example.weatherapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFpjB8MYY83eOsvrgCcKUJxm7_CDsJvuw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
